@@ -7,7 +7,7 @@
 <h2>Beginner python projects I created to test my knowledge<h2/>
 
 
-- [Fortune Cookie](https://github.com/presicion25/Python-Projects/tree/main/Fortune%20Cookie)
+- [Fortune Cookie](https://github.com/presicion25/python-projects/blob/main/FortuneCookie.py)
 
 
 - [Guessing Game](https://github.com/presicion25/Python-Projects/tree/main/Guessing%20Game)
