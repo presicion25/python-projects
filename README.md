@@ -10,7 +10,7 @@
 - [Fortune Cookie](https://github.com/presicion25/python-projects/blob/main/FortuneCookie.py)
 
 
-- [Guessing Game](https://github.com/presicion25/Python-Projects/tree/main/Guessing%20Game)
+- [Guessing Game](https://github.com/presicion25/python-projects/blob/main/guessinggame.py)
 
 
 - [Password Generator](https://github.com/presicion25/Python-Projects/tree/main/Password%20Generator)
