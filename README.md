@@ -16,4 +16,4 @@
 - [Password Generator](https://github.com/presicion25/Python-Projects/tree/main/Password%20Generator)
 
 
-- [Mad Lib](https://github.com/presicion25/Python-Projects/tree/main/MadLib)
+- [Mad Lib](https://github.com/presicion25/python-projects/blob/main/madlib.py)
