@@ -13,7 +13,7 @@
 - [Guessing Game](https://github.com/presicion25/python-projects/blob/main/guessinggame.py)
 
 
-- [Password Generator](https://github.com/presicion25/Python-Projects/tree/main/Password%20Generator)
+- [Password Generator](https://github.com/presicion25/python-projects/blob/main/passwordgenerator.py)
 
 
 - [Mad Lib](https://github.com/presicion25/python-projects/blob/main/madlib.py)
