@@ -6,6 +6,8 @@
 
 <h2>Beginner python projects I created to test my knowledge<h2/>
 
+- [Weather API](https://github.com/presicion25/weather-api)
+
 
 - [Fortune Cookie](https://github.com/presicion25/python-projects/blob/main/FortuneCookie.py)
 
